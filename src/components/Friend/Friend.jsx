@@ -16,3 +16,5 @@ const Friend = ({friend}) => {
 };
 
 export default Friend;
+
+
